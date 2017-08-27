@@ -1,5 +1,5 @@
 {
-  "name": "sander",
+  "name": "@marionebl/sander",
   "description": "Promise-based power tool for common filesystem tasks",
   "author": "Rich Harris",
   "version": "0.6.0",
